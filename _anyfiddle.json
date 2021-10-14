@@ -1,0 +1,6 @@
+{
+  "openFiles": [
+      "."
+  ],
+  "defaultCommand": "python -m pytest -vv -s"
+}
